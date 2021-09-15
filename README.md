@@ -1,1 +1,1 @@
-# Infogenx
+# Infogenx-Pg
